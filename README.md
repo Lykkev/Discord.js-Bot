@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://repl.it/badge/github/HarutoHiroki/Discord.js-Bot)](https://repl.it/github/HarutoHiroki/Discord.js-Bot)
 # JS-Discord-Bot
 An Open Source version of Cryptonix X and a basic frame for any discord.js bot. Integrates MongoDB as a solution for database!
 [Support Server](https://discord.gg/sjtcnRb)
